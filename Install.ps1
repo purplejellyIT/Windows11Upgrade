@@ -1,0 +1,1 @@
+﻿Start-Process -FilePath C:\PurpleJelly\Windows11Upgrade-main\Win11Upgrade.exe -ArgumentList “/Install /MinimizeToTaskBar /QuietInstall /SkipEULA /copylogs C:\PurpleJelly\Windows11Upgrade-main”
